@@ -1,4 +1,4 @@
-# FiveM Chat Bot
+# FiveM Discord Bot
 A Twitter and Dark Web chat script with discord logging using webhooks
 
 # Screenshots
